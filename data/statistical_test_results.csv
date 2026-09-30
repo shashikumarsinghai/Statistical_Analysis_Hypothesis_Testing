@@ -1,0 +1,4 @@
+Test,Statistic,p_value
+Levene's Test,0.1695,0.8441
+One-way ANOVA,0.7084,0.4925
+Kruskal-Wallis,1.8403,0.3985
